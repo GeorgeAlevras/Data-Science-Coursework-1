@@ -4,7 +4,7 @@ Author: George Alevras \
 Date: 23/02/2022
 
 ## Description ##
-This was my first of two courseworks representing 40% of the course 'Methods for Data Science' - obtaining a grade of 88.8%. Developed and utilised ML models programmed in Python with NumPy, TensorFlow, and Scikit-Learn to classify MNIST fashion data and explore group dynamics of social networks in an unsupervised way. Developed custom Multi Layer Perceptron (MLP) and Convolutional Neural Networks (CNN), applied dimensionality reduction with Principal Component Analysis (PCA) and Non-Negative Matrix Factorisation (NMF), designed clustering algorithms including graph-based analysis spectral clustering and centralities (PageRank, degree, and eigenvector centrality), and modularity maximisation with the Louvain algorithm.
+This was my first of two courseworks representing 40% of the course 'Methods for Data Science' - obtaining a grade of 88.8%. Developed and utilised ML models programmed in Python with NumPy and Pandas to classify breast tumour samples as benign or malignant based on 30 features, as well as to predict the toxicity factor LC50 in various fish. Developed linear, ridge, and relaxation of Lasso regression models, k-NN classifiers, random forests, Support Vector Machines (SVMs), and logistic regression models with bagging.
 
 ## Organisation ##
 The repository contains:
